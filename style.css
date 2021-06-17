@@ -1,0 +1,22 @@
+body{
+			background-color:#EAF6F6;
+		}
+
+hr{
+			border-style: dotted none none;
+			border-color: grey;
+			border-width: 5px;
+			width: 5%;
+		}
+
+h1{
+	color: #00EAD3;
+	font-family: "sans-serif";
+}
+h3{
+	color: #66bfbf;
+}
+
+h2{
+	color: #00EAD3;
+}
